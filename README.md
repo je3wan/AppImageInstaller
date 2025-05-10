@@ -2,6 +2,8 @@
 A simple python script to install AppImages:)
 
 How to use: 
+Before Starting, make sure the AppImage is marked as executable.
+
 1. Run the python script as root
     
 2. select and Valid AppImage file
