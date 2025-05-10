@@ -7,7 +7,7 @@ Before Starting, make sure the AppImage is marked as executable.
 
 1. Run the python script as root
     
-2. select and Valid AppImage file
+2. Select an Valid AppImage file
     
 3. Enter an name for the AppImage
     
